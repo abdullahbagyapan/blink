@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "Makefile": "makefile",
+        "io.h": "c",
+        "common.h": "c",
+        "portpins.h": "c",
+        "delay.h": "c",
+        "iom328p.h": "c",
+        "sfr_defs.h": "c"
+    }
+}
