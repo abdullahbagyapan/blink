@@ -1,4 +1,4 @@
-# Blink Led with Baremetal Arduino
+# Blink Led with Baremetal C
 
 ## Requirements
 
